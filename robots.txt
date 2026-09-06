@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://mostafamom9292-dev.github.io/Mr-Egyptian-/sitemap.xml
