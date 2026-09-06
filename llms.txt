@@ -1,0 +1,19 @@
+# Mr Egyptian
+
+## About
+Official website for the Mr Egyptian developer and the RubyT application.
+
+## Application
+RubyT is a lightweight and customizable AI-focused browser that provides access to AI tools and online services through organized categories.
+
+## Developer
+Name: Mr Egyptian
+
+## Application Version
+1V
+
+## Main Website
+The website provides information about RubyT, its current version, features, and download availability.
+
+## Important
+The application is currently experimental and may contain technical issues. Future versions are expected to improve and fix these issues.
