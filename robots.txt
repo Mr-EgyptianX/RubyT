@@ -1,4 +1,13 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mostafamom9292-dev.github.io/Mr-Egyptian-/sitemap.xml
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://Mr-EgyptianX.github.io/RubyT/sitemap.xml

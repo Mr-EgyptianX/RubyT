@@ -1,19 +1,107 @@
-# Mr Egyptian
+# RubyT 2.0
 
-## About
-Official website for the Mr Egyptian developer and the RubyT application.
+RubyT 2.0 is a lightweight and customizable AI-focused Android browser that brings a wide range of AI tools and online services together in one simple application.
 
-## Application
-RubyT is a lightweight and customizable AI-focused browser that provides access to AI tools and online services through organized categories.
+## Overview
 
-## Developer
-Name: Mr Egyptian
+The app organizes AI services into convenient categories such as Chat, Images, Programming, Video, Audio, Search, Writing, and Social.
 
-## Application Version
-1V
+RubyT provides quick access to popular AI platforms and tools, including ChatGPT, Gemini, Claude, DeepSeek, Copilot, Grok, Perplexity, and many others.
 
-## Main Website
-The website provides information about RubyT, its current version, features, and download availability.
+The app is designed to make accessing AI services easier, especially on devices where dedicated AI applications may not be available or practical.
 
-## Important
-The application is currently experimental and may contain technical issues. Future versions are expected to improve and fix these issues.
+RubyT also allows users to add their own websites and create custom sections. These custom websites and sections are private to the user.
+
+Additional security and privacy systems are planned for future versions to help protect user data and privacy.
+
+## Key Features
+
+- Multiple AI categories in one application
+- Quick access to popular AI services
+- Custom websites and sections
+- Private user customization
+- Lightweight design
+- Data-saving features
+- Simple and organized interface
+- Convenient access to AI tools from one place
+- Privacy and data protection features
+
+## AI Categories
+
+- Chat
+- Images
+- Programming
+- Video
+- Audio
+- Search
+- Writing
+- Social
+
+## Popular AI Services
+
+- ChatGPT
+- Gemini
+- Claude
+- DeepSeek
+- Copilot
+- Grok
+- Perplexity
+- Other AI tools and online services
+
+## Customization
+
+RubyT allows users to add their own websites and create custom sections.
+
+These custom websites and sections are private to the user.
+
+## Known Technical Issue
+
+There is currently a technical issue with TikTok in the Social section. TikTok may open in the Chrome browser instead of inside RubyT.
+
+This issue is being addressed and is planned to be improved in future releases.
+
+## Experimental Status
+
+RubyT is currently in its experimental phase.
+
+The application may contain technical errors and issues. These issues are planned to be fixed and improved in future versions.
+
+## Future Plans
+
+Future versions are planned to introduce additional improvements, features, security enhancements, and performance improvements.
+
+## App Information
+
+App name: RubyT
+
+App version: 2.0
+
+App type: Android application
+
+Status: Experimental
+
+## Developer Information
+
+Developer: Mr Egyptian
+
+Email: mostafamom9292@gmail.com
+
+About the developer:
+
+I'm a developer very passionate about programming and technology, and this app is my first. Please support and encourage me to continue developing it.
+
+## Copyright and Usage Rights
+
+The app may be published while retaining its original signature and without any modifications.
+
+Currently, modifying or re-signing the app is not permitted without the developer's permission.
+
+In future versions, permission to modify the app may be granted according to the developer's terms.
+
+## Official Website
+
+https://Mr-EgyptianX.github.io/RubyT/
+
+## Source Repository
+
+https://github.com/Mr-EgyptianX/RubyT
