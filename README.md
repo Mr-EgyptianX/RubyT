@@ -29,4 +29,4 @@ RubyT is currently in its experimental phase. The application may contain techni
 
 Future versions are planned to introduce additional improvements, features, security enhancements, and performance improvements.
 
-The official link to download the application is https://mostafamom9292-dev.github.io/RubyT/⁠
+The official link to download the application is https://Mr-EgyptianX.github.io/RubyT/
